@@ -30,8 +30,8 @@ Users can add, view, edit, and delete records dynamically through an API connect
 # ⚙️ For setup
 
 ```bash
-git clone https://github.com/username/react-todo-crud.git
-cd react-todo-crud
+git clone https://github.com/gizemoztarhan/CrudApp.git
+cd CrudApp
 npm install
 npm run server
 npm run dev
